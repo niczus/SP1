@@ -1,2 +1,2 @@
 # SP1
-Seed Project form The Last Mile
+Seed Project from The Last Mile
