@@ -1,0 +1,176 @@
+body {
+    background-color: rgb(139, 243, 179);
+}
+
+
+header {
+    font-family: cursive; 
+    text-align: center; 
+    background-color: rgb(187, 182, 175); 
+    color: rgb(182, 41, 112);
+    font-size: larger;
+    border-bottom: 2px solid black;
+    text-shadow: -4px 4px 3px #666, 1px -1px 2px #000;;
+}
+
+#fade {
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 5px;
+}
+
+h5 {
+    margin-top: 50px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 3em;
+    color: red;
+}
+
+.vits {
+    color: rgb(13, 70, 13);
+    font-size: 1.2em;
+}
+
+.benefits {
+    color: rgb(233, 159, 22);
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h3 {
+    text-align: center;
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.vegs {
+    text-decoration: underline;
+    color: red;
+    font-size: 40px;
+}
+
+input {
+    height: 40px;
+    width: 80px;    
+}
+
+img {
+    width: 120px;
+    height:100px;
+    border-radius: 10px;
+    border: 2px double grey;
+}
+
+.btn {
+    margin-top: 30px;
+    height: 50px;
+    padding: 5px;    
+    background-color: rgb(11, 131, 7);
+    color: rgb(217, 243, 99);
+    border: 2px solid rgb(131, 124, 124);
+}
+
+#contact {
+    border: 8px double rgb(109, 87, 97);
+}
+
+#name {
+    width: 350px;
+    height: 40px;
+    margin-bottom: 5px;
+}
+
+#phone {
+    width: 350px;
+    height: 40px;
+    margin-bottom: 5px;
+}
+
+#email {
+    width: 350px;
+    height: 40px;
+    margin-bottom: 5px;
+}
+#date {
+    width: 350px;
+    height: 40px;
+}
+#address {
+    width: 350px;
+    height: 40px;
+}
+#delivery_date {
+    width: 350px;
+    height: 40px;
+}
+#name2 {
+    width: 350px;
+    height: 40px;
+}
+
+label{
+    display: inline-block;
+    width: 7em;
+}
+
+.thanks {
+    margin-top: 50px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    font-size: 3em;
+    color: rgb(201, 36, 36);
+}
+
+#view {
+    text-align: center;
+}
+
+#name2{
+    margin-bottom: 15px;
+}
+
+.viewOrder {
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.seeOrder {
+   color: rgb(201, 36, 36);
+   font-size: 3em;
+}
+
+.order {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2em;
+}
+
+button{
+    margin-left: 5px;
+    background-color: rgb(11, 131, 7);
+    color: rgb(217, 243, 99);
+    border: 2px solid rgb(131, 124, 124); 
+}
+#home, #update {
+   padding: 10px;
+    font-size: 15px;
+}
+
+
+
+h4 {
+    margin-top: 10px;
+}
+#signIn {
+    width: 150px;
+    height: 25px;
+}
+.employee {
+    font-size: 10px;
+}
+
